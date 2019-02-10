@@ -96,7 +96,62 @@
 
 
 
+  <!-- INICIO WILLIAM MONTOYA -->
+  <table>
+        <thead>
+          <tr>
+              <th>Name</th>
+              <th>Item Name</th>
+              <th>Item Price</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Alvin</td>
+            <td>Eclair</td>
+            <td>$0.87</td>
+          </tr>
+          <tr>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+          </tr>
+          <tr>
+            <td>Jonathan</td>
+            <td>Lollipop</td>
+            <td>$7.00</td>
+          </tr>
+        </tbody>
+      </table>
   
+  <a class="btn-floating pulse"><i class="material-icons">menu</i></a>
+<a class="btn-floating btn-large pulse"><i class="material-icons">cloud</i></a>
+<a class="btn-floating btn-large cyan pulse"><i class="material-icons">edit</i></a>
+  
+    <div class="row">
+      <div class="col s1">1</div>
+      <div class="col s1">2</div>
+      <div class="col s1">3</div>
+      <div class="col s1">4</div>
+      <div class="col s1">5</div>
+      <div class="col s1">6</div>
+      <div class="col s1">7</div>
+      <div class="col s1">8</div>
+      <div class="col s1">9</div>
+      <div class="col s1">10</div>
+      <div class="col s1">11</div>
+      <div class="col s1">12</div>
+    </div>
+  
+   <div class="row">
+      <div class="col s12">This div is 12-columns wide on all screen sizes</div>
+      <div class="col s6">6-columns (one-half)</div>
+      <div class="col s6">6-columns (one-half)</div>
+    </div>
+  
+  <!-- FIN WILLIAM MONTOYA -->
   
 </body>
+  
 </html>
